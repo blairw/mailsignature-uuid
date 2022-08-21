@@ -14,7 +14,7 @@ Indicative `crontab` settings:
 * * * * * /Users/blair/mailsignature/generate.sh
 ```
 
-That generates a fresh one every minute, see also www.crontab.guru
+That generates a fresh one every minute, see also https://crontab.guru
 
 ## Why?
 
